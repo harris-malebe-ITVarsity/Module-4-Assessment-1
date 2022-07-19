@@ -24,3 +24,6 @@ img#logo{
     right: 10px;
 }
 
+div > #body{
+    width: 30px;
+}
